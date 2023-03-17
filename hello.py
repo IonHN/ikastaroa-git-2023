@@ -8,5 +8,5 @@ suma = int(num1)+int(num2);
 print("La suma es: " );
 print(suma);
 
-resta = int(num1-1);
+resta = int(num1)-1;
 print(resta);
