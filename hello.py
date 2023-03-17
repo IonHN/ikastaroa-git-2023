@@ -16,3 +16,5 @@ print(resta);
 
 mul = int(num2)*3
 print(mul);
+"Cambio el master para conflicto"
+"Cambio el master para conflicto"
