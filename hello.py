@@ -10,3 +10,6 @@ print(suma);
 
 resta = int(num1)-1;
 print(resta);
+
+mul = int(num2)*3
+print(mul);
