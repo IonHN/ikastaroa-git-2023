@@ -19,4 +19,4 @@ print(mul);
 "He creado una nueva operación"
 
 
-"Hacemos otro cambio en el fichero"
+"We make other change on the file"
