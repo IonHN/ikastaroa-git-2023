@@ -15,5 +15,3 @@ print(resta);
 
 mul = int(num2)*3
 print(mul);
-
-"He creado una nueva operación"
