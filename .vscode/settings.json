@@ -1,0 +1,9 @@
+{
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "Complex task",
+            "task": "Hello your name",
+            "tooltip": "Launch complex task"
+        }
+    ]
+}

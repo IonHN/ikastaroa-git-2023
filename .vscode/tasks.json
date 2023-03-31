@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Hello your name",
+            "type": "shell",
+            "command": "echo 'Hola ${input:yourName}!'",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "yourName",
+            "type": "promptString",
+            "description": "¿Cuál es tu nombre?",
+            "default": "mundo"
+        }
+    ]
+}
